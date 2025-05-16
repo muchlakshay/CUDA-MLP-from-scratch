@@ -12,7 +12,7 @@ and the project files that ive uploaded are completly raw, i'll add comments soo
 - Basic backprop
 - Weights updates (SGD)
   
-ive tried to bebug GPU backend a lot but still i couldnt pin point the issue
+ive tried to debug GPU backend a lot but still i couldnt pin point the issue
 
 ## TODO:
 - Fix why it doesn't work on big datasets
