@@ -3,7 +3,7 @@
 This is my second MLP implementation, this time using CUDA.
 The goal is to speed up training using GPU parallelism.
 
-Current Status: Not fully working yet, debugging kernel issues and issues with big Datasets like MNIST.
+Current Status: Not fully working yet (on big datasets), debugging kernel issues and issues with big Datasets like MNIST.
 
 ## What Works:
 - Forward pass 
