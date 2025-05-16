@@ -6,9 +6,11 @@ The goal is to speed up training using GPU parallelism.
 Current Status: Not fully working yet (on big datasets), debugging kernel issues and issues with big Datasets like MNIST.
 
 ## What Works:
-- Forward pass 
+- Forward pass  
 - Basic backprop
 - Weights updates
+  
+ive tried to bebug GPU backend a lot but still i couldnt pin point the issue
 
 ## TODO:
 - Fix why it doesn't work on big datasets
