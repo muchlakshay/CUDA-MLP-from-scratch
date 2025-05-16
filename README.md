@@ -5,14 +5,14 @@ The goal is to speed up training using GPU parallelism.
 
 Current Status: Not fully working yet, debugging kernel issues and issues with big Datasets like MNIST.
 
-🔧 What Works:
+## What Works:
 - Forward pass 
 - Basic backprop
 - Weights updates
 
-TODO:
+## TODO:
 - Fix why it doesn't work on big datasets
 - Fix faulty loss tracking
 - Implement better CPU support 
 
-If you're reading this and know CUDA, feel free to help!
+If you're reading this and know CUDA, feel free to help! I havent added comments yet but i'll do it soon.
