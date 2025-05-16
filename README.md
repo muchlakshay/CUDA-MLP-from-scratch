@@ -7,9 +7,10 @@ Current Status: Not fully working yet (on big datasets), debugging kernel issues
 and the project files that ive uploaded are completly raw, i'll add comments soon too. 
 
 ## What Works:
+- mini-batch mechanism
 - Forward pass  
 - Basic backprop
-- Weights updates
+- Weights updates (SGD)
   
 ive tried to bebug GPU backend a lot but still i couldnt pin point the issue
 
